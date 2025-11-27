@@ -85,8 +85,6 @@ This is the reason why XGBoost has been selected as a prediction basis. The fina
 
 # 🌳 Repository Structure #
 
-## 📂 Repository Structure
-
 ```
 Real-estate-price-prediction-Regression
 │
