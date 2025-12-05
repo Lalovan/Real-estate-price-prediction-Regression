@@ -1,4 +1,9 @@
-# Real-estate-price-prediction-Regression
+# Real-Estate-Price-Prediction-Regression
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337ab7?logo=xgboost&logoColor=white)
 
 ### ⏩ At a Glance: ###
 
@@ -11,7 +16,7 @@ This repository documents the ML stage of Immo Eliza’s broader data pipeline, 
 Following the initial data scraping and exploratory data analysis (EDA), this stage focuses on preprocessing, model development, and evaluation for predictive model. Linear (Linear Regression) and Tree-Based models (Random Forest, XGBoost) have been tested in the process. 
 
 # 📌 Project Context #
-Immo Eliza (imaginary real estate firm) aims to strengthen decision-making and valuation precision by integrating data-driven modeling. After gathering Belgian real estate data (web scraping) and conducting early analysis (DEA), the next step is turning these insights into a robust predictive model.
+Immo Eliza (imaginary real estate firm) aims to strengthen decision-making and valuation precision by integrating data-driven modeling. After gathering Belgian real estate data (web scraping) and conducting early analysis (EDA), the next step is turning these insights into a robust predictive model.
 
 This repository provides:
 - A complete preprocessing pipeline;
@@ -104,7 +109,7 @@ Real-estate-price-prediction-Regression
 
 **1. Clone the repository:**
 
-`git clone https://github.com/Lalovan/Real-estate-price-prediction-Regression.git`
+`git clone https://github.com/Lalovan/Real-Estate-Price-Prediction-Regression.git`
 
 
 **2. Create and activate a virtual environment (optional):**
