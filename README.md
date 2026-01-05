@@ -11,7 +11,7 @@ Building a Machine Learning (ML) model for price prediction based on scraped, cl
 
 # 🚀 Project mission #
 
-This repository documents the ML stage of Immo Eliza’s broader data pipeline, whose mission is to deliver faster and more accurate property price estimations across Belgium. 
+This repository documents the ML stage of Immo Eliza’s (imaginary firm) broader data pipeline, whose mission is to deliver faster and more accurate property price estimations across Belgium. 
 
 Following the initial data scraping and exploratory data analysis (EDA), this stage focuses on preprocessing, model development, and evaluation for predictive model. Linear (Linear Regression) and Tree-Based models (Random Forest, XGBoost) have been tested in the process. 
 
