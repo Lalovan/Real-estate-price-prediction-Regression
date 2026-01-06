@@ -20,9 +20,8 @@ Immo Eliza (imaginary real estate firm) aims to strengthen decision-making and v
 
 This repository provides:
 - A complete preprocessing pipeline;
-- 3 regression models (linear & tree-based);
+- 3 saved, reusable models (linear & tree-based) for future prediction workflows;;
 - Performance evaluation and comparison;
-- Saved, reusable models for future prediction workflows;
 
 # 🧭 Workflow Overview #
 1. Data Cleaning
